@@ -1,3 +1,6 @@
+//Integracion
+//estado: verifi. estado y resultados
+//Integracion de sist:  verifi. interaccion
 const { addToCart, removeFromCart, getCartItems, getCartQuantity } = require('../src/cart');
 
 describe('Shopping Cart', () => {

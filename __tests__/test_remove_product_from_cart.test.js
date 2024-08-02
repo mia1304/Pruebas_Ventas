@@ -1,3 +1,5 @@
+//Unidad
+//cajanegra: verifi. funcionalidad y resultados
 const { addToCart, removeFromCart, getCartItems } = require('../src/cart');
 
 describe('Shopping Cart', () => {

@@ -1,4 +1,7 @@
 // __tests__/products.test.js
+//Integracion,
+// Interfaz: verifi. Interfaz
+// Integracion de sist.: verifi. integracion
 const request = require('supertest');
 const { app } = require('../app');
 
@@ -23,3 +26,11 @@ describe('POST /products', () => {
     });
   });
 });
+
+//Uso de Watch
+// Presiona a para ejecutar todas las pruebas.
+// Presiona f para ejecutar solo las pruebas que fallaron.
+// Presiona p para filtrar por un patrón de nombre de archivo regex
+// Presiona t para filtrar por un patrón de nombre de prueba regex.
+// Presiona q para salir del modo de observación.
+// Presiona Enter para iniciar una ejecución de prueba.

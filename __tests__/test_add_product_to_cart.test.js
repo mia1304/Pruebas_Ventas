@@ -1,3 +1,5 @@
+//Unidad
+//cajanegra: verifi. funcionalidad y resultados
 const { addToCart, getCartItems } = require('../src/cart'); // Importa las funciones necesarias
 
 describe('Shopping Cart', () => {

@@ -1,3 +1,6 @@
+//Integracion
+//Estado: verifi. estado
+//Integracion de sist.: verifi. flujo completo
 const { addToCart, proceedToCheckout, getCartQuantity } = require('../src/cart');
 
 describe('Shopping Cart', () => {
